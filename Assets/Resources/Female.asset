@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 692bd556e0564e0aa7df3e3bad1d459a, type: 3}
+  m_Name: Female
+  m_EditorClassIdentifier: 
+  legs:
+  - _name: Female_Legs_1
+    _materials:
+    - {fileID: 2100000, guid: 12a3f199e1082df408484795add5ab5d, type: 2}
+    - {fileID: 2100000, guid: ea5518aa8998669448e0248a6e42eb50, type: 2}
+    - {fileID: 2100000, guid: 2da6ab6361b999b478c227c3f69616ea, type: 2}
+  - _name: Female_Legs_2
+    _materials:
+    - {fileID: 2100000, guid: 49d03cf711496d8419fb8ac3845b77df, type: 2}
+    - {fileID: 2100000, guid: f7a7e64aed780514a91d38782fd2bbfe, type: 2}
+  - _name: Female_Legs_3
+    _materials:
+    - {fileID: 2100000, guid: 3b179c814ee420f408a2e55464b8b3a8, type: 2}
+    - {fileID: 2100000, guid: 601140f306d677c4486cd3e4217c2ba4, type: 2}
+    - {fileID: 2100000, guid: 38068334753dcee4995c2c60fc48dcc5, type: 2}
+    - {fileID: 2100000, guid: 1bd40f27ff5070a40b4b0c304b6f8d03, type: 2}
+    - {fileID: 2100000, guid: 99c3634b11543fa409a72a1266473ff7, type: 2}
+  torsos:
+  - _name: Female_Torso_1
+    _materials:
+    - {fileID: 2100000, guid: 3133fd49998134d468b65d0d0208fb5e, type: 2}
+    - {fileID: 2100000, guid: 26889b2f294a8a74a865631bc0dff45d, type: 2}
+    - {fileID: 2100000, guid: 4ba498ce1f827be4f8ee1ff7f788e38e, type: 2}
+    - {fileID: 2100000, guid: a43cbd281bd63ac4b9cb9d53dc557891, type: 2}
+  - _name: Female_Torso_2
+    _materials:
+    - {fileID: 2100000, guid: b51421c6a4ea7ac4895dc01f52a1901c, type: 2}
+    - {fileID: 2100000, guid: 36e85cc99a1790b41a147803cc76eb4d, type: 2}
+    - {fileID: 2100000, guid: 66890726b3c012448b88441882d6efc0, type: 2}
+    - {fileID: 2100000, guid: 7d8a3324128cefb4c9079c7e9ee05c54, type: 2}
+  - _name: Female_Torso_3
+    _materials:
+    - {fileID: 2100000, guid: da7a13480ddb58044980a6563b562d9a, type: 2}
+    - {fileID: 2100000, guid: 9194a78cc1925cf40a3085f3d2353a29, type: 2}
+    - {fileID: 2100000, guid: cb18b88ddbcf5f348842c185ceb496bc, type: 2}
+    - {fileID: 2100000, guid: 99be721522d8cd244a5d60f0d28d2d3b, type: 2}
+  skin:
+  - _name: Female_Skin_1
+    _materials:
+    - {fileID: 2100000, guid: 1f4eb2ee258d00f46b7e2c217f2996eb, type: 2}
+    - {fileID: 2100000, guid: 40c80b68cce95f249b8dc8292a209132, type: 2}
+    - {fileID: 2100000, guid: c4fdb086805e2364bb9eee9da1f6981f, type: 2}
+  - _name: Female_Skin_2
+    _materials:
+    - {fileID: 2100000, guid: d5617c5bbd0c5b84d817bd31a677be99, type: 2}
+    - {fileID: 2100000, guid: d04e539da360a9c40b26116846f5f1da, type: 2}
+    - {fileID: 2100000, guid: 4db3ffa650972f6449d0aac6f69b200e, type: 2}
+  - _name: 3
+    _materials:
+    - {fileID: 2100000, guid: a20148f9afdb1a741a2cb99fee42ee51, type: 2}
+    - {fileID: 2100000, guid: 8a29e495fdc66de448285d98bc2e0cab, type: 2}
+    - {fileID: 2100000, guid: 995fa9817298ca545bc26a3f375b925b, type: 2}
+  heads:
+  - _name: Female_Head_1
+    _materials:
+    - {fileID: 2100000, guid: 09440252667b4c342a784b9f0a6feef6, type: 2}
+  - _name: Female_Head_2
+    _materials:
+    - {fileID: 2100000, guid: 58907ac205715e746900f3204949981e, type: 2}
+  - _name: Female_Head_3
+    _materials:
+    - {fileID: 2100000, guid: ebfbf2cc34f268047a75db150f7ce610, type: 2}
+  hairs:
+  - _name: Female_Hair_1
+    _materials:
+    - {fileID: 2100000, guid: 2126113755a30264bacb049856dbf786, type: 2}
+    - {fileID: 2100000, guid: faf5825e9adafa5408b7ea38d15dad7a, type: 2}
+    - {fileID: 2100000, guid: 2288758dcfc2a1f49bbddb9a8bfa5c85, type: 2}
+  - _name: Female_Hair_2
+    _materials:
+    - {fileID: 2100000, guid: c32d0151827fb0f49ba3f88207543e44, type: 2}
+  - _name: Female_Hair_3
+    _materials:
+    - {fileID: 2100000, guid: d4a665c1b451f914d96aef2217d8fbf4, type: 2}
+    - {fileID: 2100000, guid: 59961c0bf1dbbef4796d0dafb4ee32cc, type: 2}
+    - {fileID: 2100000, guid: 1a3b3b9e91a8bc4429ecab3ad2750e19, type: 2}
